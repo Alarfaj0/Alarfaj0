@@ -1,6 +1,5 @@
 ## Hi there 👋
 Im the one who knocks
-I fucking hate programming
 <!--
 **Alarfaj0/Alarfaj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
